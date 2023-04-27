@@ -1,0 +1,17 @@
+C:\Users\progWeb\source\repos\Wersta\Wersta\bin\Debug\Wersta.exe.config
+C:\Users\progWeb\source\repos\Wersta\Wersta\bin\Debug\Wersta.exe
+C:\Users\progWeb\source\repos\Wersta\Wersta\bin\Debug\Wersta.pdb
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta.csproj.AssemblyReference.cache
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta.csproj.SuggestedBindingRedirects.cache
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\MainWindow.g.cs
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\App.g.cs
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta_MarkupCompile.cache
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta_MarkupCompile.lref
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\App.baml
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\MainWindow.baml
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta.g.resources
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta.Properties.Resources.resources
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta.csproj.GenerateResource.cache
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta.csproj.CoreCompileInputs.cache
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta.exe
+C:\Users\progWeb\source\repos\Wersta\Wersta\obj\Debug\Wersta.pdb
